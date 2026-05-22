@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spent club
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -40,3 +41,6 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# Spent-Club
+>>>>>>> 014ae58d2528e3bd8656c2edfcf35840d42e411a
